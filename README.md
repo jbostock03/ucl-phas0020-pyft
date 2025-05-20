@@ -2,6 +2,9 @@
 
 Python Final Task for PHAS0020 at University College London
 
+## Files
+In `./files` are the `.fits` files used for the investigation, as well as the Notebook with all calculations: `pyft.ipynb`.
+
 ## Introduction
 The main focus of this notebook is an investigation into the asteroid of Didymos. The magnitude of the Didymos system was calculated to be $12.92 \pm 0.08$, which is in agreement with the calculated value by A. Graykowski et al. of $m_v = 12.96 \pm 0.04$, for a similar time of observation, once the fast-moving ejecta was no longer in the aperture.
 
