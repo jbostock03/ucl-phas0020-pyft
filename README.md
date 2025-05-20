@@ -20,12 +20,12 @@ To obtain this magnitude, I first performed aperture photometry ab initio on 10 
 
 In addition to aperture photometry, the angular velocity of Didymos was calculated as $0.105 \pm 1.411 \degree$ /hr. The recorded value from the JPL Ephemeris service is $0.107 \degree$ /hr, which is a 2% difference to the calculated value. This was achieved by doing linear fits to both RA and Dec.
 
-Finally, I investigated briefly the trail from Dimorphos -- a smaller asteroid in orbit around Didymos -- of which the trail was caused by NASA's DART mission. I conducted aperture photometry using an elliptical aperture, which led to a calculation of flux of $140 \pm 30$ ADUs/arcsec.
+Finally, I investigated briefly the trail from Dimorphos $\textemdash$ a smaller asteroid in orbit around Didymos $\textemdash$ of which the trail was caused by NASA's DART mission. I conducted aperture photometry using an elliptical aperture, which led to a calculation of flux of $140 \pm 30$ ADUs/arcsec.
 
 ## Author
 [Josh Bostock](https://github.com/jbostock03)
 
-This project was created as the _Python Final Task_ for the module _PHAS0020: Practical Astrophysics & Computing_ at University College London (February -- March 2024).
+This project was created as the _Python Final Task_ for the module _PHAS0020: Practical Astrophysics & Computing_ at University College London (February$\textendash$March 2024).
 
 ## Acknowledgements
 [1] [Light curves and colours of the ejecta from Dimorphos after the DART impact", Graykowski, A. et al. (2023)](https://www.nature.com/articles/s41586-023-05852-9) (accessed 3 Mar 2024)
