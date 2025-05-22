@@ -52,4 +52,4 @@ This project was created as the _Python Final Task_ for the module _PHAS0020: Pr
 
 [12] ["NASA’s DART Mission Hits Asteroid in First-Ever Planetary Defense Test" (2022)](https://www.nasa.gov/news-release/nasas-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test/) (accessed 3 Mar 2024)
 
-[13] ["Ellipse" on Wikipedia](ttps://en.wikipedia.org/wiki/Ellipse) (accessed 3 Mar 2024)
+[13] ["Ellipse" on Wikipedia](https://en.wikipedia.org/wiki/Ellipse) (accessed 3 Mar 2024)
